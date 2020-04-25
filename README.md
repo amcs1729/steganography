@@ -20,8 +20,10 @@ Reference:
 
 2) Make sure you have python and pip installed on your computer
 
-3) Run
+3) Navigate to the folder of the repo on local machine
+
+4) Run
    pip install -r requirements.txt
    
-4)Run
+5)Run
   python main.py
