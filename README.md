@@ -17,8 +17,11 @@ Reference:
 # Building the project on local machine
 
 1) First clone the repo and pull it to local machine.
+
 2) Make sure you have python and pip installed on your computer
+
 3) Run
    pip install -r requirements.txt
+   
 4)Run
   python main.py
