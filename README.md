@@ -25,5 +25,5 @@ Reference:
 4) Run
    pip install -r requirements.txt
    
-5)Run
+5) Run
   python main.py
