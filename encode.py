@@ -9,9 +9,6 @@ sys.dont_write_bytecode = True
 
 
 
-
-
-
 def encode_image():
 
 
