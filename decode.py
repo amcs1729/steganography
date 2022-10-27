@@ -5,8 +5,6 @@ import helping
 import sys
 
 sys.dont_write_bytecode = True
-
-
 def decode_image():
     path = raw_input("Enter path")
 
